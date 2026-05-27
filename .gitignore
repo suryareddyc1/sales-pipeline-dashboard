@@ -5,6 +5,7 @@ frontend/build/
 frontend/.env
 frontend/.env.local
 frontend/.vite/
+frontend/package-lock.json
 
 # Backend
 backend/__pycache__/
